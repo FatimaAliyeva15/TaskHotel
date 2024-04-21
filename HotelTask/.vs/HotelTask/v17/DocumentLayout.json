@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F041BA25-3867-43ED-9F70-C36D1C31C17D}|HotelTask\\HotelTask.csproj|c:\\users\\asus\\desktop\\taskhotel\\hoteltask\\hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F041BA25-3867-43ED-9F70-C36D1C31C17D}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\services\\concretes\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\services\\concretes\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\services\\concretes\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\services\\concretes\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\services\\abstracts\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\services\\abstracts\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\dataaccesslayer\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\dataaccesslayer\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\services\\abstracts\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\services\\abstracts\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F041BA25-3867-43ED-9F70-C36D1C31C17D}|HotelTask\\HotelTask.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\hoteltask\\hoteltask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F041BA25-3867-43ED-9F70-C36D1C31C17D}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\hoteltask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\core\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7777AA1-F066-4E30-AA0B-C3B351A2A2F1}|Core\\Core.csproj|solutionrelative:core\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Core\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Core\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:11:54.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "Core\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "Core\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:12:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Abstracts\\IHotelService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Abstracts\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Abstracts\\IHotelService.cs",
+              "RelativeToolTip": "Core\\Services\\Abstracts\\IHotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:10:25.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Concretes\\HotelService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Concretes\\HotelService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Concretes\\HotelService.cs",
+              "RelativeToolTip": "Core\\Services\\Concretes\\HotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:05:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Abstracts\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Abstracts\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Abstracts\\IRoomService.cs",
+              "RelativeToolTip": "Core\\Services\\Abstracts\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:04:23.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Concretes\\RoomService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Concretes\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Services\\Concretes\\RoomService.cs",
+              "RelativeToolTip": "Core\\Services\\Concretes\\RoomService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:52:55.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\DataAccessLayer\\AppDb.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccessLayer\\AppDb.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\DataAccessLayer\\AppDb.cs",
+              "RelativeToolTip": "Core\\DataAccessLayer\\AppDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:48:24.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Models\\Hotel.cs",
+              "RelativeToolTip": "Core\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:44:55.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Models\\Room.cs",
+              "RelativeToolTip": "Core\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:32:06.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T10:31:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelTask",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\HotelTask\\HotelTask.csproj",
+              "RelativeDocumentMoniker": "HotelTask\\HotelTask.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\HotelTask\\HotelTask.csproj",
+              "RelativeToolTip": "HotelTask\\HotelTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T10:31:04.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Exceptions\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\Core\\Exceptions\\NotAvailableException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\NotAvailableException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:30:29.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\HotelTask\\Program.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskHotel\\HotelTask\\HotelTask\\Program.cs",
+              "RelativeToolTip": "HotelTask\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv8EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:29:13.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
